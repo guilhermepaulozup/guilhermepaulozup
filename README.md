@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 Esse é meu readme!!!!
 
 
+
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="aa0fd230f571007ee0bf0203d8ffff24">
+<div id="2dca164257c1e4c0c6e5a20e4b81f3ce">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -46,8 +48,8 @@ Esse é meu readme!!!!
             </tr>
             <tr>
                 <td><img src="badges/desenvolvimento_seguro.png" width="120px"></td>
-                <td><img src="badges/ssdlc.png" width="120px"></td>
                 <td></td>
+                <td><img src="badges/regulatorios.png" width="120px"></td>
                 <td></td>
                 <td></td>
             </tr>
