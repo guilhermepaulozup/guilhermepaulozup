@@ -29,29 +29,33 @@ Esse é meu readme!!!!
 
 
 
+
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="2dca164257c1e4c0c6e5a20e4b81f3ce">
+<div id="c47650990a993ea867d618efd098a4a5">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
-                <th colspan="5">Security Champions</th>
+                <th colspan="6">Security Champions</th>
             </tr>
         </thead>
         <tbody align="center">
             <tr>
-                <td width="150px"><h5>DESENVOLVIMENTO SEGURO</h5></td>
-                <td width="150px"><h5>SSDLC na Prática</h5></td>
-                <td width="150px"><h5>REGULATÓRIOS</h5></td>
-                <td width="150px"><h5>CLOUDSEC</h5></td>
-                <td width="150px"><h5>SECURITY CHAMPION</h5></td>
+                <td width="150px"><h5>Desenvolvimento Seguro</h5></td>
+                <td width="150px"><h5>SSDLC na prática</h5></td>
+                <td width="150px"><h5>Regulatórios</h5></td>
+                <td width="150px"><h5>Cloud Sec [Exclusivo Zup IT]</h5></td>
+                <td width="150px"><h5>Cloud Sec [Exclusivo Stack Spot]</h5></td>
+                <td width="150px"><h5>security_champion</h5></td>
             </tr>
             <tr>
-                <td><img src="badges/desenvolvimento_seguro.png" width="120px"></td>
-                <td></td>
-                <td><img src="badges/regulatorios.png" width="120px"></td>
-                <td></td>
-                <td></td>
+                <td><img src="badges/Desenvolvimento Seguro.png" width="120px"></td>
+                <td><img src="badges/SSDLC na prática.png" width="120px"></td>
+                <td><img src="badges/Regulatórios.png" width="120px"></td>
+                <td><img src="badges/Cloud Sec [Exclusivo Zup IT].png" width="120px"></td>
+                <td><img src="badges/Cloud Sec [Exclusivo Stack Spot].png" width="120px"></td>
+                <td><img src="badges/security_champion.png" width="120px"></td>
             </tr>
         </tbody>
     </table>
