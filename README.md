@@ -16,32 +16,32 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
-<div id="c7cdcce834b3d0fbc1820746ce87530f">
-<center>
-    <table border="1px" width="600px">
+<div id="07ec4a3dcc438ead8fc0a810fbe699cd">
+    <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
-                <th  style="text-align:center" colspan="5">Security Champions</th>
+                <th colspan="">Security Champions</th>
             </tr>
         </thead>
         <tbody align="center">
             <tr>
-                <td>DESENVOLVIMENTO SEGURO</td>
-                <td>SSDLC</td>
-                <td>Regulatórios</td>
-                <td>CloudSec</td>
-                <td>Security Champion</td>
+                <td width="150px"><h5>DESENVOLVIMENTO SEGURO</h5></td>
+                <td width="150px"><h5>SSDLC</h5></td>
+                <td width="150px"><h5>Regulatórios</h5></td>
+                <td width="150px"><h5>CloudSec</h5></td>
+                <td width="150px"><h5>Security Champion</h5></td>
             </tr>
             <tr>
-                <td><img src="badges/desenvolvimento_seguro.png"></td>
-                <td><img src="badges/ssdlc.png"></td>
-                <td><img src="badges/no-badge.png"></td>
-                <td><img src="badges/no-badge.png"></td>
-                <td><img src="badges/no-badge.png"></td>
+                <td><img src="badges/desenvolvimento_seguro.png" width="120px"></td>
+                <td><img src="badges/ssdlc.png" width="120px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
         </tbody>
     </table>
-</center>
 </div>
 <!-- NÃO ALTERE O BLOCO ACIMA -->
