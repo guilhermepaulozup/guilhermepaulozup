@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 
 
+
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
-<div id="65a630c25bc4c5ef63b295a36b90d3f9">
+<div id="fede6080f08b36ff8739cdb6cc83bb04">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -31,10 +33,10 @@ Here are some ideas to get you started:
         <tbody align="center">
             <tr>
                 <td width="150px"><h5>DESENVOLVIMENTO SEGURO</h5></td>
-                <td width="150px"><h5>SSDLC</h5></td>
-                <td width="150px"><h5>Regulatórios</h5></td>
-                <td width="150px"><h5>CloudSec</h5></td>
-                <td width="150px"><h5>Security Champion</h5></td>
+                <td width="150px"><h5>SSDLC na Prática</h5></td>
+                <td width="150px"><h5>REGULATÓRIOS</h5></td>
+                <td width="150px"><h5>CLOUDSEC</h5></td>
+                <td width="150px"><h5>SECURITY CHAMPION</h5></td>
             </tr>
             <tr>
                 <td><img src="badges/desenvolvimento_seguro.png" width="120px"></td>
