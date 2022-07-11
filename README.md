@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="ac87dd37ec0125e909f0df009647f256">
+<div id="00a5cf63a6b3434914893e66d2a7358d">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -40,9 +41,9 @@ Here are some ideas to get you started:
             <tr>
                 <td></td>
                 <td></td>
+                <td><img src="badges/regulatórios.png" width="120px"></td>
+                <td><img src="badges/cloud_sec.png" width="120px"></td>
                 <td></td>
-                <td></td>
-                <td><img src="badges/security_champion.png" width="120px"></td>
             </tr>
         </tbody>
     </table>
