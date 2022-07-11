@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="ce26ab8af2fff39bf38abd3c1e0b144a">
+<div id="be0d24c615a1c5c0f5110b609714ff6b">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
             </tr>
             <tr>
                 <td></td>
-                <td></td>
+                <td><img src="badges/ssdlc_na_prática.png" width="120px"></td>
                 <td><img src="badges/regulatórios.png" width="120px"></td>
                 <td><img src="badges/cloud_sec.png" width="120px"></td>
                 <td><img src="badges/security_champion.png" width="120px"></td>
