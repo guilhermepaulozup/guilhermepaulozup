@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="e0c383de1b37afb5433de36440b80944">
+<div id="ce26ab8af2fff39bf38abd3c1e0b144a">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
                 <td></td>
                 <td><img src="badges/regulatórios.png" width="120px"></td>
                 <td><img src="badges/cloud_sec.png" width="120px"></td>
-                <td></td>
+                <td><img src="badges/security_champion.png" width="120px"></td>
             </tr>
         </tbody>
     </table>
