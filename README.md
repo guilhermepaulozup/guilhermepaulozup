@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 
+
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="01bd50cb3563af6b9b7da1a4fb36c366">
+<div id="68d0fe77903340fadea989d734b9dc86">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
+                <td><img src="badges/security_champion.png" width="120px"></td>
             </tr>
         </tbody>
     </table>
