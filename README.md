@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
 <div id="606ec6b4ee3b37872030a4cf9c470c81">
@@ -53,3 +43,5 @@ Here are some ideas to get you started:
     </table>
 </div>
 <!-- NÃO ALTERE O BLOCO ACIMA -->
+
+Content after block is ok
