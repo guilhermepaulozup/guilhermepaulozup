@@ -21,7 +21,7 @@ Content after block is ok
 
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="2be0196b77808b4cb31bf1406a7411fb">
+<div id="8ef2c5f6f6fa3a762395186a7e1354bf">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -37,7 +37,7 @@ Content after block is ok
                 <td width="150px"><h5>Security Champion</h5></td>
             </tr>
             <tr>
-                <td><img src="badges/421489437719.png" width="120px" alt="Desenvolvimento Seguro (Teste)"></td>
+                <td></td>
                 <td><img src="badges/408630520462.png" width="120px" alt="SSDLC na prática (Teste)"></td>
                 <td></td>
                 <td></td>
