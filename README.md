@@ -21,7 +21,7 @@ Content after block is ok
 
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="8995d2683c8a71564893686336a11106">
+<div id="0acf474a9b59a62203806f338c82cb9d">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -30,18 +30,18 @@ Content after block is ok
         </thead>
         <tbody align="center">
             <tr>
-                <td width="150px"><h5>Desenvolvimento Seguro (Teste)</h5></td>
-                <td width="150px"><h5>SSDLC na prática (Teste)</h5></td>
-                <td width="150px"><h5>Regulatórios (Teste)</h5></td>
+                <td width="150px"><h5>Desenvolvimento Seguro</h5></td>
+                <td width="150px"><h5>SSDLC na Prática</h5></td>
+                <td width="150px"><h5>Regulatórios</h5></td>
                 <td width="150px"><h5>Cloud Sec</h5></td>
                 <td width="150px"><h5>Security Champion</h5></td>
             </tr>
             <tr>
-                <td><img src="badges/421489437719.png" width="120px" alt="Desenvolvimento Seguro (Teste)"></td>
-                <td><img src="badges/408630520462.png" width="120px" alt="SSDLC na prática (Teste)"></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
+                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na Prática"></td>
+                <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
+                <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
+                <td><img src="badges/379589427342.png" width="120px" alt="Security Champion"></td>
             </tr>
         </tbody>
     </table>
